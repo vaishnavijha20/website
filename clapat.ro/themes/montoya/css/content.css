@@ -192,7 +192,8 @@
 		line-height:24px;
 		margin-top:50px;
 		width: 100%;
-		z-index: 10;		
+		z-index: 10;
+		text-align: center;		
 		position:relative;
 		display:block;
 		overflow:hidden;
